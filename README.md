@@ -6,7 +6,7 @@
 * Google Chrome
 * Terminal > Developer Command Line Tools
 * iTerm 2
-* Oh My Zsh
+* Oh My Zsh!
 * Homebrew
 * Docker Desktop
 
@@ -23,5 +23,7 @@ Python will override a few paths - restart your terminal.
 
 ```
 brew install awscli
+brew install yq jq git-remote-codecommit
 ```
 
+Go create the .aws folder, the config and creditials files.
